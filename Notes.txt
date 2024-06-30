@@ -12,4 +12,3 @@ The classifier is organised as a cascade of stages, where each stage consists of
 An image region only passes to the next stage if it meets the criteria of the current stage. 
 This cascade structure allows for fast rejection on non-plate regions, focussing computation on potential candidates.
 
-Install AWS Code whisper
